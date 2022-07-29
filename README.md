@@ -9,7 +9,9 @@ The purpose of this challenge is to help our client W.Avy determine if the weath
 Three key points about the temperatures in these two months are as follows.
 
 •	December has a more volatile temperature range  (27 degrees) with a minimum of 56 and a maximum of 83. Compare this to June with a range of 21 degrees and a minimum of 64 and a maximum of 85. The standard deviation follows suit with a 3.26 std for June and 3.75 for December
+
 •	The mean temperature in June is higher (74.9) than it is in December (71)
+
 •	The biggest takeaway from looking at these temperatures is that temperature variability is relatively even throughout the year.
 
 ## Summary
